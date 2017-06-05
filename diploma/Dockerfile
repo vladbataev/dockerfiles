@@ -5,4 +5,5 @@ RUN pip3 install keras \
 		 pymystem3 \
 		 python-crfsuite \
 		 sklearn-crfsuite \
-		 editdistance
+		 editdistance \
+                 nltk
